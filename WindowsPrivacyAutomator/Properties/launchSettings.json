@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowsPrivacyAutomator (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WindowsPrivacyAutomator (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
