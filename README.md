@@ -2,6 +2,8 @@
 
 A high-performance desktop utility built with **WinUI 3** and **.NET 10** to automate the hardening of Windows 11 privacy and diagnostic settings. This project demonstrates modern C# architecture, asynchronous UI automation, and the Page Object Model (POM) design pattern.
 
+https://github.com/user-attachments/assets/b691f9c6-bf0c-4ffc-bc79-280c0413d8c3
+
 ## 🚀 Technical Highlights
 *   **Modern Stack:** Leverages **WinUI 3 (Windows App SDK)** for a native Windows 11 Fluent Design interface.
 *   **Reliable Automation:** Utilizes **FlaUI (UIA3)** for programmatic interaction with the Windows UI Automation (UIA) tree, prioritizing **AutomationIDs** and **UIA Patterns** over brittle coordinate-based clicks.
